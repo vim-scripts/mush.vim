@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3530
+
+This syntax file MUSHCode andd MUXCode.   Instructions for making it work are in the file.
+
+This syntax file is more or less a more updated version of the mush.vim syntax file I last contributed in 2005.
